@@ -7,5 +7,6 @@
     ".": {
       "extra-files": ["java-accessapproval/README.md"]
     }
-  }
+  },
+  "pull-request-title-pattern": "test: pineapple ${version}"
 }
